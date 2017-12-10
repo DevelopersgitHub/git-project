@@ -1,0 +1,5 @@
+# folder logs
+img/
+
+#txt-files
+docs/components/*.less
